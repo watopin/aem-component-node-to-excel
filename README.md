@@ -11,3 +11,6 @@ It might help someone...
 There are 2 ways of reading xml.
 * from local xml file.
 * if you've started an aem server at your local machine, it can get xml from the server.
+
+
+using apache poi and okhttp.
